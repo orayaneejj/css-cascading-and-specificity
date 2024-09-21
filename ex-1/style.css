@@ -1,10 +1,19 @@
+cascadingbypo
 /* Start coding here  */
 button {
+
+.ex-btn,
+.ex-btn-warning,
+.ex-btn-success {
+ main
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 18px;
   cursor: pointer;
 }
+ cascadingbypo
+
+ main
 .ex-btn {
   color: black;
   background-color: #eee;
